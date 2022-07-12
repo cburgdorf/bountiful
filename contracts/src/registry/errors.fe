@@ -1,0 +1,10 @@
+# Revert errors
+pub struct AlreadyLocked {}
+
+pub struct InvalidClaim {}
+
+pub struct OnlyAdmin {}
+
+pub struct InvalidDeposit {}
+
+pub struct MissingLock {}
